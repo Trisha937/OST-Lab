@@ -1,2 +1,2 @@
 # OST Lab 
-This repository contains experiments and assignments for the Operating Systems & Technology Lab.
+This repository contains experiments and assignments for the Open Source Technologies Lab.
